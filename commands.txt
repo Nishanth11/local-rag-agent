@@ -1,0 +1,31 @@
+python3 -m venv venv                            - To create virtual environment
+source ./venv/bin/activate                      - To activate virtual environment
+pip install -r ./requirements.txt               - To install dependencies 
+or 
+pip install langChain langChain-ollama langChain-chroma pandas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Running modals locally:
+
+ollama --version                                    - To Check the version of ollama installed in local 
+
+ollama pull mistral                                 - To get a modal into the local - here mistral is the LLM modal name 
+
+ollama run mistral                                  - 
+
+ollama list                                         - To see what all modals are in ur local 
+
+ollama pull mxbai-embed-large                       - Here mxbai-embed-large is the embedding model name 

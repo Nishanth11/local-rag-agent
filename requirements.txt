@@ -1,0 +1,4 @@
+langChain
+langChain-ollama
+langChain-chroma
+pandas
