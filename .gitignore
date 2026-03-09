@@ -3,3 +3,4 @@ __pycache__/
 chroma_langchain_db/
 *.pyc
 .env
+/.claude
