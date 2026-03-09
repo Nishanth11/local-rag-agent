@@ -12,7 +12,9 @@ pip install langChain langChain-ollama langChain-chroma pandas
 
 
 
-
+Hallucination can’t be eliminated, but with LangChain I control it using RAG,
+strict prompts, structured outputs, tool‑use, and verification chains
+so the model stays grounded in real data.
 
 
 
